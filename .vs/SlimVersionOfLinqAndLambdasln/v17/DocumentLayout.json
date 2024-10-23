@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IsDB-BISEW\\GitProject\\C#\\MidMonthlyMarch\\SlimVersionOfLinqAndLambdasln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72E20EAA-A557-453E-B61F-61ADE8ADF948}|SlimVersionOfLinqAndLambda\\SlimVersionOfLinqAndLambda.csproj|d:\\isdb-bisew\\gitproject\\c#\\midmonthlymarch\\slimversionoflinqandlambdasln\\slimversionoflinqandlambda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E20EAA-A557-453E-B61F-61ADE8ADF948}|SlimVersionOfLinqAndLambda\\SlimVersionOfLinqAndLambda.csproj|solutionrelative:slimversionoflinqandlambda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E20EAA-A557-453E-B61F-61ADE8ADF948}|SlimVersionOfLinqAndLambda\\SlimVersionOfLinqAndLambda.csproj|D:\\IsDB-BISEW\\GitProject\\C#\\MidMonthlyMarch\\SlimVersionOfLinqAndLambdasln\\slimversionoflinqandlambda\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E20EAA-A557-453E-B61F-61ADE8ADF948}|SlimVersionOfLinqAndLambda\\SlimVersionOfLinqAndLambda.csproj|solutionrelative:slimversionoflinqandlambda\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E20EAA-A557-453E-B61F-61ADE8ADF948}|SlimVersionOfLinqAndLambda\\SlimVersionOfLinqAndLambda.csproj|D:\\IsDB-BISEW\\GitProject\\C#\\MidMonthlyMarch\\SlimVersionOfLinqAndLambdasln\\slimversionoflinqandlambda\\models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E20EAA-A557-453E-B61F-61ADE8ADF948}|SlimVersionOfLinqAndLambda\\SlimVersionOfLinqAndLambda.csproj|solutionrelative:slimversionoflinqandlambda\\models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E20EAA-A557-453E-B61F-61ADE8ADF948}|SlimVersionOfLinqAndLambda\\SlimVersionOfLinqAndLambda.csproj|D:\\IsDB-BISEW\\GitProject\\C#\\MidMonthlyMarch\\SlimVersionOfLinqAndLambdasln\\slimversionoflinqandlambda\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E20EAA-A557-453E-B61F-61ADE8ADF948}|SlimVersionOfLinqAndLambda\\SlimVersionOfLinqAndLambda.csproj|solutionrelative:slimversionoflinqandlambda\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E20EAA-A557-453E-B61F-61ADE8ADF948}|SlimVersionOfLinqAndLambda\\SlimVersionOfLinqAndLambda.csproj|D:\\IsDB-BISEW\\GitProject\\C#\\MidMonthlyMarch\\SlimVersionOfLinqAndLambdasln\\slimversionoflinqandlambda\\repository\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E20EAA-A557-453E-B61F-61ADE8ADF948}|SlimVersionOfLinqAndLambda\\SlimVersionOfLinqAndLambda.csproj|solutionrelative:slimversionoflinqandlambda\\repository\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E20EAA-A557-453E-B61F-61ADE8ADF948}|SlimVersionOfLinqAndLambda\\SlimVersionOfLinqAndLambda.csproj|D:\\IsDB-BISEW\\GitProject\\C#\\MidMonthlyMarch\\SlimVersionOfLinqAndLambdasln\\slimversionoflinqandlambda\\repository\\productmodelrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E20EAA-A557-453E-B61F-61ADE8ADF948}|SlimVersionOfLinqAndLambda\\SlimVersionOfLinqAndLambda.csproj|solutionrelative:slimversionoflinqandlambda\\repository\\productmodelrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E20EAA-A557-453E-B61F-61ADE8ADF948}|SlimVersionOfLinqAndLambda\\SlimVersionOfLinqAndLambda.csproj|D:\\IsDB-BISEW\\GitProject\\C#\\MidMonthlyMarch\\SlimVersionOfLinqAndLambdasln\\slimversionoflinqandlambda\\repository\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E20EAA-A557-453E-B61F-61ADE8ADF948}|SlimVersionOfLinqAndLambda\\SlimVersionOfLinqAndLambda.csproj|solutionrelative:slimversionoflinqandlambda\\repository\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\C#\\MidMonthlyMarch\\SlimVersionOfLinqAndLambdasln\\SlimVersionOfLinqAndLambda\\Models\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "SlimVersionOfLinqAndLambda\\Models\\ProductCategory.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\C#\\MidMonthlyMarch\\SlimVersionOfLinqAndLambdasln\\SlimVersionOfLinqAndLambda\\Models\\ProductCategory.cs",
+              "RelativeToolTip": "SlimVersionOfLinqAndLambda\\Models\\ProductCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T20:00:34.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\C#\\MidMonthlyMarch\\SlimVersionOfLinqAndLambdasln\\SlimVersionOfLinqAndLambda\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "SlimVersionOfLinqAndLambda\\Models\\Product.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\C#\\MidMonthlyMarch\\SlimVersionOfLinqAndLambdasln\\SlimVersionOfLinqAndLambda\\Models\\Product.cs",
+              "RelativeToolTip": "SlimVersionOfLinqAndLambda\\Models\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T20:00:34.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductModelRepo.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\C#\\MidMonthlyMarch\\SlimVersionOfLinqAndLambdasln\\SlimVersionOfLinqAndLambda\\Repository\\ProductModelRepo.cs",
+              "RelativeDocumentMoniker": "SlimVersionOfLinqAndLambda\\Repository\\ProductModelRepo.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\C#\\MidMonthlyMarch\\SlimVersionOfLinqAndLambdasln\\SlimVersionOfLinqAndLambda\\Repository\\ProductModelRepo.cs",
+              "RelativeToolTip": "SlimVersionOfLinqAndLambda\\Repository\\ProductModelRepo.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T20:00:35.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductRepo.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\C#\\MidMonthlyMarch\\SlimVersionOfLinqAndLambdasln\\SlimVersionOfLinqAndLambda\\Repository\\ProductRepo.cs",
+              "RelativeDocumentMoniker": "SlimVersionOfLinqAndLambda\\Repository\\ProductRepo.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\C#\\MidMonthlyMarch\\SlimVersionOfLinqAndLambdasln\\SlimVersionOfLinqAndLambda\\Repository\\ProductRepo.cs",
+              "RelativeToolTip": "SlimVersionOfLinqAndLambda\\Repository\\ProductRepo.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAAAIUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T20:00:34.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\C#\\MidMonthlyMarch\\SlimVersionOfLinqAndLambdasln\\SlimVersionOfLinqAndLambda\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "SlimVersionOfLinqAndLambda\\Models\\ProductModel.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\C#\\MidMonthlyMarch\\SlimVersionOfLinqAndLambdasln\\SlimVersionOfLinqAndLambda\\Models\\ProductModel.cs",
+              "RelativeToolTip": "SlimVersionOfLinqAndLambda\\Models\\ProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T20:00:34.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\C#\\MidMonthlyMarch\\SlimVersionOfLinqAndLambdasln\\SlimVersionOfLinqAndLambda\\Program.cs",
+              "RelativeDocumentMoniker": "SlimVersionOfLinqAndLambda\\Program.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\C#\\MidMonthlyMarch\\SlimVersionOfLinqAndLambdasln\\SlimVersionOfLinqAndLambda\\Program.cs",
+              "RelativeToolTip": "SlimVersionOfLinqAndLambda\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T20:00:35.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryRepo.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\C#\\MidMonthlyMarch\\SlimVersionOfLinqAndLambdasln\\SlimVersionOfLinqAndLambda\\Repository\\CategoryRepo.cs",
+              "RelativeDocumentMoniker": "SlimVersionOfLinqAndLambda\\Repository\\CategoryRepo.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\C#\\MidMonthlyMarch\\SlimVersionOfLinqAndLambdasln\\SlimVersionOfLinqAndLambda\\Repository\\CategoryRepo.cs",
+              "RelativeToolTip": "SlimVersionOfLinqAndLambda\\Repository\\CategoryRepo.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAAD8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T20:00:35.311Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

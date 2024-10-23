@@ -1,0 +1,14 @@
+D:\Monsur\C#\19-02-24\SlimVersionOfLinqAndLambdasln\SlimVersionOfLinqAndLambda\bin\Debug\SlimVersionOfLinqAndLambda.exe.config
+D:\Monsur\C#\19-02-24\SlimVersionOfLinqAndLambdasln\SlimVersionOfLinqAndLambda\bin\Debug\SlimVersionOfLinqAndLambda.exe
+D:\Monsur\C#\19-02-24\SlimVersionOfLinqAndLambdasln\SlimVersionOfLinqAndLambda\bin\Debug\SlimVersionOfLinqAndLambda.pdb
+D:\Monsur\C#\19-02-24\SlimVersionOfLinqAndLambdasln\SlimVersionOfLinqAndLambda\obj\Debug\SlimVersionOfLinqAndLambda.csproj.AssemblyReference.cache
+D:\Monsur\C#\19-02-24\SlimVersionOfLinqAndLambdasln\SlimVersionOfLinqAndLambda\obj\Debug\SlimVersionOfLinqAndLambda.csproj.CoreCompileInputs.cache
+D:\Monsur\C#\19-02-24\SlimVersionOfLinqAndLambdasln\SlimVersionOfLinqAndLambda\obj\Debug\SlimVersionOfLinqAndLambda.exe
+D:\Monsur\C#\19-02-24\SlimVersionOfLinqAndLambdasln\SlimVersionOfLinqAndLambda\obj\Debug\SlimVersionOfLinqAndLambda.pdb
+D:\IsDB-BISEW\GitProject\C#\MidMonthlyMarch\SlimVersionOfLinqAndLambdasln\SlimVersionOfLinqAndLambda\bin\Debug\SlimVersionOfLinqAndLambda.exe.config
+D:\IsDB-BISEW\GitProject\C#\MidMonthlyMarch\SlimVersionOfLinqAndLambdasln\SlimVersionOfLinqAndLambda\bin\Debug\SlimVersionOfLinqAndLambda.exe
+D:\IsDB-BISEW\GitProject\C#\MidMonthlyMarch\SlimVersionOfLinqAndLambdasln\SlimVersionOfLinqAndLambda\bin\Debug\SlimVersionOfLinqAndLambda.pdb
+D:\IsDB-BISEW\GitProject\C#\MidMonthlyMarch\SlimVersionOfLinqAndLambdasln\SlimVersionOfLinqAndLambda\obj\Debug\SlimVersionOfLinqAndLambda.csproj.AssemblyReference.cache
+D:\IsDB-BISEW\GitProject\C#\MidMonthlyMarch\SlimVersionOfLinqAndLambdasln\SlimVersionOfLinqAndLambda\obj\Debug\SlimVersionOfLinqAndLambda.csproj.CoreCompileInputs.cache
+D:\IsDB-BISEW\GitProject\C#\MidMonthlyMarch\SlimVersionOfLinqAndLambdasln\SlimVersionOfLinqAndLambda\obj\Debug\SlimVersionOfLinqAndLambda.exe
+D:\IsDB-BISEW\GitProject\C#\MidMonthlyMarch\SlimVersionOfLinqAndLambdasln\SlimVersionOfLinqAndLambda\obj\Debug\SlimVersionOfLinqAndLambda.pdb
